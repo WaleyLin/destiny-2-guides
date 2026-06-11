@@ -38,8 +38,6 @@ There are **27 symbols** used in every encounter. All six players must agree on 
 
 ![Vow of the Disciple Symbol Chart](./symbols.png)
 
-Common team nicknames are fine (e.g. "Football Jesus" for Worship) — just make sure everyone knows what you mean. A miscall wipes the team.
-
 ---
 
 ## 1. Opening — The Disciple's Bog
