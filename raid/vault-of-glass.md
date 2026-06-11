@@ -15,7 +15,7 @@
 
 ---
 
-## 🗡️ Recommended Loadout (All Encounters)
+## Recommended Loadout (All Encounters)
 
 | Weapon | Why |
 |--------|-----|
@@ -27,7 +27,7 @@
 | **Well of Radiance** (Warlock) | Near-essential for survivability in DPS phases |
 | **Ward of Dawn** (Titan) | Weapons of Light buff for big damage phases |
 
-> ⚠️ **Do NOT use Anti-Barrier mods** — they interfere with the Templar's shield mechanic.
+> **Do NOT use Anti-Barrier mods** — they interfere with the Templar's shield mechanic.
 
 ---
 
@@ -332,7 +332,7 @@ Each cycle, **3 random players are teleported** into either the Past (left/Mars/
 
 ---
 
-## 🎁 Loot Table
+## Loot Table
 
 | Encounter | Weapons | Armor |
 |-----------|---------|-------|
