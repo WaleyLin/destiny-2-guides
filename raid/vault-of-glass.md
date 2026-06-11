@@ -1,7 +1,7 @@
-# 🏛️ Vault of Glass — Raid Guide
+# Vault of Glass — Raid Guide
 ---
 
-## 📋 Quick Reference
+## Quick Reference
 
 | # | Encounter | Type | Challenge |
 |---|-----------|------|-----------|
