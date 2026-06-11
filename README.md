@@ -1,4 +1,4 @@
-# 📖 Destiny 2 — Raid Guides
+# Destiny 2 — Raid Guides
 
 A collection of raid guides for our fireteam. Click a raid below to open its guide.
 
