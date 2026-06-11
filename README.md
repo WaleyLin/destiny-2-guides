@@ -2,64 +2,20 @@
 
 A collection of raid guides for our fireteam. Click a raid to open its guide.
 
-Guides marked ✅ are complete. Others are coming soon.
-
 ---
 
-## Base Game (2017)
-| Raid | Guide |
-|------|-------|
-| Leviathan | Coming soon |
-
-## Curse of Osiris (2017)
-| Raid | Guide |
-|------|-------|
-| Eater of Worlds *(Raid Lair)* | Coming soon |
-| Spire of Stars *(Raid Lair)* | Coming soon |
-
-## Forsaken (2018)
-| Raid | Guide |
-|------|-------|
-| Last Wish | Coming soon |
-| Scourge of the Past | Coming soon |
-
-## Shadowkeep (2019)
-| Raid | Guide |
-|------|-------|
-| Crown of Sorrow | Coming soon |
-| Garden of Salvation | Coming soon |
-
-## Beyond Light (2020)
-| Raid | Guide |
-|------|-------|
-| Deep Stone Crypt | Coming soon |
-
-## Season of the Splicer (2021)
-| Raid | Guide |
-|------|-------|
-| ✅ [Vault of Glass](./raids/vault-of-glass.md) | Complete |
-
-## The Witch Queen (2022)
-| Raid | Guide |
-|------|-------|
-| ✅ [Vow of the Disciple](./raids/vow-of-the-disciple.md) | Complete |
-
-## The Witch Queen — Season of Plunder (2022)
-| Raid | Guide |
-|------|-------|
-| King's Fall | Coming soon |
-
-## Lightfall (2023)
-| Raid | Guide |
-|------|-------|
-| Root of Nightmares | Coming soon |
-| Crota's End | Coming soon |
-
-## The Final Shape (2024)
-| Raid | Guide |
-|------|-------|
-| Salvation's Edge | Coming soon |
-
----
-
-> Guides are added as we clear new raids.
+| Raid | Expansion | Location |
+|------|-----------|----------|
+| Leviathan | Base Game | Leviathan, Nessus Orbit |
+| [Last Wish](./raids/last-wish.md) | Forsaken | Dreaming City, Reef |
+| [Scourge of the Past](./raids/scourge-of-the-past.md) | Season of the Forge | Last City, Earth |
+| [Crown of Sorrow](./raids/crown-of-sorrow.md) | Season of Opulence | Leviathan, Nessus Orbit |
+| [Garden of Salvation](./raids/garden-of-salvation.md) | Shadowkeep | The Black Garden, Moon |
+| [Deep Stone Crypt](./raids/deep-stone-crypt.md) | Beyond Light | Rathmore Chaos, Europa |
+| [✅ Vault of Glass](./raids/vault-of-glass.md) | Season of the Splicer | Ishtar Sink, Venus |
+| [✅ Vow of the Disciple](./raids/vow-of-the-disciple.md) | The Witch Queen | Court of Savathûn, Ascendant Realm |
+| [King's Fall](./raids/kings-fall.md) | Season of Plunder | Dreadnaught, Saturn |
+| [Root of Nightmares](./raids/root-of-nightmares.md) | Lightfall | Essence, Earth Orbit |
+| [Crota's End](./raids/crotas-end.md) | Season of the Witch | Ocean of Storms, Moon |
+| [Salvation's Edge](./raids/salvations-edge.md) | The Final Shape | The Pale Heart, The Traveler |
+| [The Desert Perpetual](./raids/the-desert-perpetual.md) | The Edge of Fate | Kepler, The Oort Cloud |
