@@ -9,10 +9,10 @@ A collection of raid guides for our fireteam. Click a raid to open its guide.
 | Last Wish | Forsaken |
 | Garden of Salvation | Shadowkeep |
 | Deep Stone Crypt | Beyond Light |
-| [Vault of Glass](./raids/vault-of-glass.md) | Free — no expansion required |
+| [Vault of Glass](./raids/vault-of-glass.md) | Base Game |
 | [Vow of the Disciple](./raids/vow-of-the-disciple.md) | The Witch Queen |
 | Root of Nightmares | Lightfall |
-| King's Fall | Free — no expansion required |
-| Crota's End | Free — no expansion required |
+| King's Fall | Base Game |
+| Crota's End | Base Game |
 | Salvation's Edge | The Final Shape |
 | The Desert Perpetual | The Edge of Fate |
