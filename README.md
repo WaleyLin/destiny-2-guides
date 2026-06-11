@@ -1,9 +1,5 @@
 # Destiny 2 — Raid Guides
 
-A collection of raid guides for our fireteam. Click a raid to open its guide.
-
----
-
 | Raid | Required Expansion |
 |------|--------------------|
 | Last Wish | Forsaken |
