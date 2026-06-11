@@ -1,14 +1,18 @@
 # Destiny 2 — Raid Guides
 
-| Raid | Expansion | Difficulty |
-|------|-----------|------------|
-| Last Wish | Forsaken | Medium |
-| Garden of Salvation | Shadowkeep | Medium |
-| Deep Stone Crypt | Beyond Light | Easy |
-| [Vault of Glass](./raids/vault-of-glass.md) | Season of the Splicer (FREE) | Easy |
-| [Vow of the Disciple](./raids/vow-of-the-disciple.md) | The Witch Queen | Hard |
-| King's Fall | Lightfall (FREE) | Hard |
-| Root of Nightmares | Lightfall | Easy |
-| Crota's End | Season of the Witch (FREE) | Easy |
-| Salvation's Edge | The Final Shape | Hard |
-| The Desert Perpetual | The Edge of Fate | — |
+A collection of raid guides for our fireteam. Click a raid to open its guide.
+
+---
+
+| Raid | Required Expansion |
+|------|--------------------|
+| Last Wish | Forsaken |
+| Garden of Salvation | Shadowkeep |
+| Deep Stone Crypt | Beyond Light |
+| [Vault of Glass](./raids/vault-of-glass.md) | Free — no expansion required |
+| [Vow of the Disciple](./raids/vow-of-the-disciple.md) | The Witch Queen |
+| Root of Nightmares | Lightfall |
+| King's Fall | Free — no expansion required |
+| Crota's End | Free — no expansion required |
+| Salvation's Edge | The Final Shape |
+| The Desert Perpetual | The Edge of Fate |
