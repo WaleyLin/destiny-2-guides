@@ -1,6 +1,4 @@
 # 🏛️ Vault of Glass — Raid Guide
-> **6 players · Venus · Recommended Power: 1300**
-
 ---
 
 ## 📋 Quick Reference
