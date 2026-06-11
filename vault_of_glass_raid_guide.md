@@ -129,12 +129,12 @@ Three phases, each adding more Confluxes. **4 sacrifices at any one Conflux = te
 
 | Player | Watches |
 |--------|---------|
-| P1 | L1 |
-| P2 | L2 |
-| P3 | L3 |
-| P4 | R1 |
-| P5 | R2 |
-| P6 | R3 **+ Mid** (two locations) |
+| Jade | L1 |
+| Andre | L2 |
+| Jordan | L3 |
+| Daniel | R1 |
+| Jebb | R2 |
+| Waley | R3 **+ Mid** (two locations) |
 
 ### Steps
 1. During the preview, when your Oracle spawns, call out its number (e.g. "mine's first", "mine's fourth")
