@@ -52,9 +52,9 @@ Three Sync Plates are spread across the Waking Ruins (left, middle, right). All 
 
 | Role | Players | Job |
 |------|---------|-----|
-| Left Plate | P1, P2 | P1 on Minotaurs; P2 on Cyclops with Super/Heavy |
-| Middle Plate | P3, P4 | P3 stays close to plate; P4 takes elevated angle to spot threats from both sides |
-| Right Plate | P5, P6 | Mirror of left pair |
+| Left Plate | Waley, Jade | P1 on Minotaurs; P2 on Cyclops with Super/Heavy |
+| Middle Plate | Jordan, Andre | P3 stays close to plate; P4 takes elevated angle to spot threats from both sides |
+| Right Plate | Jebb, Daniel | Mirror of left pair |
 
 ### Tips
 - Once a plate activates, you don't need to stand on it — use nearby cover
@@ -77,16 +77,16 @@ Three phases, each adding more Confluxes. **4 sacrifices at any one Conflux = te
 | Phase | Confluxes Active | Split |
 |-------|-----------------|-------|
 | Phase 1 | 1 (middle) | All 6 together |
-| Phase 2 | 2 (left + right) | 3 / 3 |
-| Phase 3 | 3 (left + middle + right) | 2 / 2 / 2 |
+| Phase 2 | 2 (left + right) | Waley Jade Jordan / Andre Jebb Daniel |
+| Phase 3 | 3 (left + middle + right) | Waley Jade / Jordan Andre / Jebb Daniel |
 
 ### Player Roles (Phase 3)
 
 | Role | Players | Job |
 |------|---------|-----|
-| Left Conflux | P1, P2 | Defend left; call Wyverns immediately |
-| Middle Conflux | P3, P4 | Defend middle; watch for Marked debuffs |
-| Right Conflux | P5, P6 | Defend right; call Wyverns immediately |
+| Left Conflux | Waley, Jade | Defend left; call Wyverns immediately |
+| Middle Conflux | Jordan Andre | Defend middle; watch for Marked debuffs |
+| Right Conflux | Jebb Daniel | Defend right; call Wyverns immediately |
 
 ### Tips
 - Wyverns are **top priority** every time they spawn — call them loud and fast
