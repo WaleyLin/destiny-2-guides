@@ -36,8 +36,6 @@
 
 There are **27 symbols** used in every encounter. All six players must agree on callouts before starting. The image below shows all symbols and their names — refer to it whenever learning new encounters.
 
-> 📌 **Tip:** Add this image to a second screen or a Discord pin so everyone can reference it mid-run.
-
 ![Vow of the Disciple Symbol Chart](./symbols.png)
 
 Common team nicknames are fine (e.g. "Football Jesus" for Worship) — just make sure everyone knows what you mean. A miscall wipes the team.
