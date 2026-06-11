@@ -346,4 +346,3 @@ Each cycle, **3 random players are teleported** into either the Past (left/Mars/
 
 ---
 
-*Good luck, Guardian. 🤙*
