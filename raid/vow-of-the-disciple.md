@@ -280,12 +280,7 @@ Repeat until **6 deposits** are made → Rhulk retreats to the upper damage plat
 
 Label the six pillars by position:
 
-```
-(Facing Rhulk from spawn)
-
-Left side:    L-Front   L-Mid   L-Back
-Right side:   R-Front   R-Mid   R-Back
-```
+![Vow of the Disciple Boss Room](./boss.png)
 
 ### Player Roles — Phase 1
 
