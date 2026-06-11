@@ -28,8 +28,6 @@
 | **Ward of Dawn** (Titan) | Weapons of Light buff for big damage phases |
 | **Tether** (Hunter) | Powerful super DPS during Rhulk damage phase |
 
-> ⚠️ **Minimum recommended Power Level: 1530 — Final boss Power Level: 1550**
-
 > ⚠️ **Must have completed the Witch Queen Campaign to access this raid.**
 
 ---
