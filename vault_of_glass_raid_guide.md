@@ -179,12 +179,12 @@ Repeat
 
 | Role | Player | Job |
 |------|--------|-----|
-| Relic Holder | P1 | Holds Relic entire fight; destroys Oracles (ground slam); strips shield; blocks teleports |
-| Oracle Watchers | P2, P3 | Call Oracle order; help with add clear (Harpies, Minotaurs) |
-| DPS + Add Clear | P4, P5, P6 | Full damage on Templar during DPS; one watches for detained teammates and shoots them free |
+| Relic Holder | Daniel | Holds Relic entire fight; destroys Oracles (ground slam); strips shield; blocks teleports |
+| Oracle Watchers | Waley, Jebb | Call Oracle order; help with add clear (Harpies, Minotaurs) |
+| DPS + Add Clear | Jade, Andre, Jordan | Full damage on Templar during DPS; one watches for detained teammates and shoots them free |
 
 ### DPS Strategy — Corner Method
-Set up on the platform/shelf near the Templar's starting position. Place **Ward of Dawn** first (Weapons of Light), then **Well of Radiance** in front. Use precision shotguns at close range. Relic holder stays nearby to block teleports.
+Set up on the platform/shelf near the Templar's starting position. Place **Ward of Dawn** first (Weapons of Light), then **Well of Radiance** in front. Use precision shotguns at close range. Relic holder stays nearby to block teleports. Jordan on Divinity.
 
 ### Tips
 - Blocking every teleport spawns **Praetorians** — assign one player to handle them while others DPS
