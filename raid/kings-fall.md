@@ -1,4 +1,4 @@
-# ⚔️ King's Fall — Raid Guide
+# King's Fall — Raid Guide
 
 ---
 
