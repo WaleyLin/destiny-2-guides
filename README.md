@@ -1,5 +1,4 @@
 # Destiny 2 — Raid Guides
----
 
 | Raid | Expansion | Difficulty |
 |------|-----------|------------|
