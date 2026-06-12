@@ -9,6 +9,6 @@
 | [Vow of the Disciple](./raid/vow-of-the-disciple.md) | The Witch Queen |
 | Root of Nightmares | Lightfall |
 | [King's Fall](raid/kings-fall.md) | Base Game |
-| Crota's End | Base Game |
+| [Crota's End](raid/crotas-end.md) | Base Game |
 | Salvation's Edge | The Final Shape |
 | The Desert Perpetual | The Edge of Fate |
