@@ -1,5 +1,4 @@
 # Crota's End — Raid Guide
-> **6 players · Moon (Hellmouth) · Recommended Power: 1790**
 
 ---
 
