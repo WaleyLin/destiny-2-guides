@@ -1,4 +1,4 @@
-# 🏹 Last Wish — Raid Guide
+# Last Wish — Raid Guide
 
 ---
 
