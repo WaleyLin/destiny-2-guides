@@ -2,7 +2,7 @@
 
 | Raid | Required Expansion |
 |------|--------------------|
-| Last Wish | Forsaken |
+| [Last Wish](raid/lastwish.md). | Forsaken |
 | Garden of Salvation | Shadowkeep |
 | Deep Stone Crypt | Beyond Light |
 | [Vault of Glass](./raid/vault-of-glass.md) | Base Game |
