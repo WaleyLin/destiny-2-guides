@@ -2,7 +2,7 @@
 
 ---
 
-## 📋 Quick Reference
+## Quick Reference
 
 | # | Encounter | Type |
 |---|-----------|------|
@@ -18,21 +18,19 @@
 
 ---
 
-## 🗡️ Recommended Loadout
+## Recommended Loadout (All Encounters)
 
-| Weapon | Why |
-|--------|-----|
-| **Divinity** (Exotic Trace Rifle) | 30% damage debuff on bosses — near-essential for all DPS phases |
-| **Gjallarhorn** (Exotic Rocket) | Massive burst damage; best for Daughters of Oryx |
-| **Linear Fusion Rifle** (e.g. Taipan, Stormchaser) | Highest sustained DPS for Warpriest, Golgoroth, and Oryx |
-| **Sniper Rifle** (e.g. Succession) | Pair with LFR using Auto-Loading Holster for max DPS |
-| **Machine Gun** (e.g. Thunderlord) | Best add clear for Totems; shreds groups of Hive |
-| **Shotgun** (e.g. Heritage) | Fast kills on Blightguard Knights and Majors |
-| **Well of Radiance** (Warlock) | Essential survivability and damage buff in every DPS phase |
-| **Ward of Dawn** (Titan) | Weapons of Light buff; great alternative to Well |
-| **Shadowshot** (Hunter) | Powerful debuff on bosses; does not stack with Divinity |
+| Slot | Weapon | Why |
+|------|--------|-----|
+| **Primary** | Any strong ad clear primary (auto rifle, SMG, pulse rifle) | Constant Hive and Taken waves across all encounters |
+| **Special** | Shotgun (e.g. Heritage) | Fast kills on Blightguard Knights and Majors |
+| **Heavy** | Linear Fusion Rifle (e.g. Taipan, Stormchaser) | Highest sustained DPS for Warpriest, Golgoroth, and Oryx |
+| **Heavy swap** | Rocket Launcher (Gjallarhorn) | Massive burst; best for Daughters of Oryx and Oryx Final Stand |
+| **Exotic swap** | Divinity (Jordan) | 30% damage debuff on bosses — near-essential for all DPS phases |
+| **Support** | Well of Radiance (Warlock) | Essential survivability and damage buff in every DPS phase |
+| **Support** | Ward of Dawn (Titan) | Weapons of Light buff; great alongside Well |
 
-> ⚠️ **Divinity and Shadowshot debuffs do not stack** — pick one per damage phase.
+> ⚠️ **Divinity and Shadowshot debuffs do not stack** — pick one per damage phase. Jordan runs Divinity.
 
 > ✅ **This raid is free — no expansion required.**
 
@@ -40,47 +38,55 @@
 
 ## 1. Court of Oryx
 
+![Court of Oryx](court-of-oryx.png)
+
 **Goal:** Collect Relics from the left and right wings and dunk them at the Thrall statues in the centre hallway. Do this six times to open the portal.
 
+### Recommended Loadout
+
+| Slot | Recommendation | Notes |
+|------|---------------|-------|
+| **Primary** | Any ad clear primary | Steady enemy waves in the wings and centre hallway |
+| **Special** | Shotgun | Quick kills on Knights blocking doorways |
+| **Heavy** | Save for later encounters | No boss here — conserve ammo |
+
 ### How it Works
+You spawn in a triangle-shaped room with a hallway of Thrall statues ahead and doorways left and right. Two Relics sit on lanterns at the entrance. Centre pair stays in the hallway killing enemies and shooting Taken Blights. Left and right pairs hunt Relics in their wings and carry them back to the statues.
 
-You spawn in a triangle-shaped room with a hallway of Thrall statues ahead and doorways to the left and right. Two Relics sit on lanterns at the entrance. Split into three pairs: two stay in the centre, two go left, two go right.
-
-The centre pair's job is to kill enemies and shoot Taken Blights blocking doorways. The left and right pairs hunt for Relics in their wings and carry them back to the centre statues.
+> ⚠️ Once a Relic is picked up, a **countdown timer starts**. If it expires, the Relic resets and the run must restart. Move fast.
 
 ### Steps
-
 1. Two players grab the starting Relics at the entrance and dunk them at the first two statues — **both must dunk within 5 seconds of each other**
 2. Split into left pair, right pair, and centre pair
-3. Left and right pairs locate the Relic in their wing — **both carriers count down and grab simultaneously**, which triggers a Taken enemy wave
-4. Escorts kill the wave and shoot Taken Blights blocking the doorway back to the centre
+3. Left and right pairs locate the Relic in their wing — **both carriers count down and grab simultaneously**, triggering a Taken enemy wave
+4. Escorts kill the wave and shoot Taken Blights blocking the doorway back to centre
 5. Both carriers return to the statues and dunk within 5 seconds of each other
-6. **Repeat for 6 total Relic sets** to open the portal
-
-> ⚠️ Once a Relic is picked up, a **countdown timer starts**. If it expires the Relic resets and the run must restart. Move fast.
+6. Repeat for 6 total Relic sets to open the portal
 
 ### Player Roles
 
-| Role | Players | Job |
-|------|---------|-----|
-| Centre defenders | P1, P2 | Kill enemies; shoot Taken Blights blocking doorways |
-| Left pair | P3 (carrier), P4 (escort) | Locate and carry Relic; P4 kills wave and clears Blights |
-| Right pair | P5 (carrier), P6 (escort) | Mirror of left pair |
+| Player | Role | Description |
+|--------|------|-------------|
+| Waley | Centre — Lead | Calls both carrier countdowns and dunk timing; kills enemies and shoots Taken Blights in the hallway |
+| Jade | Centre defender | Keeps the statue hallway clear; assists Waley with Blight shots |
+| Jordan | Left carrier | Picks up and carries the left Relic back to the statue on Waley's countdown |
+| Andre | Left escort | Kills the Taken wave on Jordan's side; clears Blights blocking the doorway |
+| Jebb | Right carrier | Picks up and carries the right Relic back to the statue on Waley's countdown |
+| Daniel | Right escort | Kills the Taken wave on Jebb's side; clears Blights blocking the doorway |
 
 ### Tips
-
 - Roughly 3 seconds are added to the Relic timer each time a set is dunked — use this to help the slower carrier
-- Leave one or two players in the centre at all times to keep the statue hallway clear
 - After all 6 sets are dunked, kill the enemies near the portal and jump through for first loot
 
 ---
 
 ## 2. Tomb Ships
 
+![Tomb Ships](tomb-ships.png)
+
 **Goal:** Jump across a series of moving Tomb Ships to reach the next area.
 
 ### Steps
-
 1. From the chest, jump over the swinging urns and continue forward to the ship
 2. Wait for the whole team before boarding — **everyone boards together**
 3. Follow this jump sequence:
@@ -92,82 +98,98 @@ The centre pair's job is to kill enemies and shoot Taken Blights blocking doorwa
 5. Jump to the final platform and continue around the corner
 
 ### Plate Section
-
-At the second ship, leave **two players** on the plates (left and right) on the starting platform. The other four ride across safely. On the far side, two more players stand on plates there to lower the barrier and let the remaining two cross.
+At the second ship, leave **Waley and Daniel** on the plates (left and right) on the starting platform. The other four ride across safely. On the far side, **Jade and Jebb** stand on plates there to lower the barrier and let Waley and Daniel cross last.
 
 ### Tips
-
 - If you fall, you die — stay patient and wait for the ship to be in position before jumping
-- The final jump sequence is the hardest; hug the left edge to avoid the ship you need to skip
+- The final jump sequence is the hardest — hug the left edge to avoid the ship you need to skip
 
 ---
 
 ## 3. Annihilator Totems (Basilica)
 
-**Goal:** Stand under the Annihilator Totems to keep them suppressed, collect kills to build up Deathsinger's Power, and deposit that power on the central plate to charge the door. There is no boss — this is a pure mechanic encounter.
+![Annihilator Totems](annihilator-totems.png)
+
+**Goal:** Stand under the Annihilator Totems to keep them suppressed, collect kills to build Deathsinger's Power, and deposit that power on the central plate to charge the door. No boss — pure mechanic encounter.
+
+### Recommended Loadout
+
+| Slot | Recommendation | Notes |
+|------|---------------|-------|
+| **Primary** | Any ad clear primary | Steady enemy waves feeding into the totem rooms |
+| **Special** | Shotgun | Blightguard Knight kills to get Brand Claimer |
+| **Heavy** | Machine Gun (Thunderlord) | Best weapon here — shreds enemy groups and builds Deathsinger's Power fast |
 
 ### Key Buffs
 
 | Buff | What It Does |
 |------|-------------|
-| **Brand of the Unraveler / Weaver** | Protects nearby players from the poison in the side rooms; kills generate Deathsinger's Power; expires in 30 sec and kills the holder if not passed |
-| **Deathsinger's Power** | Stacks gained from kills while holding the Brand; must be deposited at the centre plate |
+| **Brand of the Unraveler / Weaver** | Protects nearby players from poison in the side rooms; kills generate Deathsinger's Power; expires in 30 sec and kills the holder if not passed |
+| **Deathsinger's Power** | Stacks from kills while holding the Brand; must be deposited at the centre plate |
 | **Brand Claimer** | Dropped by a Blightguard Knight; lets a player take the Brand from the current holder |
 
 > ⚠️ If **no player is standing under an Annihilator Totem** for more than a few seconds, the team wipes instantly.
 
 > ⚠️ The Brand expires in **30 seconds** — if nobody takes it in time, the holder dies.
 
-### How it Works
-
-Split into two teams of three: left side and right side. Each side has one Annihilator Totem room with a plate at the end. The Brand holder stands on the plate, kills enemies to stack Deathsinger's Power, then passes the Brand to a teammate using the Brand Claimer system. The player who just held the Brand runs to the centre plate and deposits their stacks. Everyone rotates through all three roles continuously.
-
 ### The Three Roles (everyone rotates through them)
 
 | Role | Job |
 |------|-----|
-| **Brand Holder** | Stand on the Totem plate; kill enemies with a Machine Gun to build Deathsinger's Power stacks; wait for Brand Claimer to take the Brand |
-| **Brand Claimer** | Kill the Wizard that spawns on the centre balcony; this spawns a Blightguard Knight — kill it to drop the Brand Claimer buff; run to the Totem room and hold interact to take the Brand |
-| **Plate Depositor** | After holding the Brand and gaining stacks, run to the centre plate and stand on it until all Deathsinger's Power is drained |
+| **Brand Holder** | Stand on the Totem plate; kill enemies with a Machine Gun to build Deathsinger's Power stacks; wait for Brand Claimer |
+| **Brand Claimer** | Kill the Wizard on the centre balcony → a Blightguard Knight spawns → kill it → pick up Brand Claimer buff → run to Totem room and hold interact to take the Brand |
+| **Plate Depositor** | After holding the Brand, run to the centre plate and stand on it until all Deathsinger's Power is drained |
 
 ### Steps — Per Side
-
 1. Brand Holder grabs the Brand from the orb at the entrance and runs to the Totem plate
-2. Brand Claimer kills the Wizard on the upper balcony → a Blightguard Knight spawns → kill it → pick up the Brand Claimer buff
+2. Brand Claimer kills the Wizard on the upper balcony → Blightguard Knight spawns → kill it → pick up Brand Claimer buff
 3. Brand Claimer runs to the Totem room and holds interact on the Brand Holder to take the Brand
 4. Original Brand Holder (now holding Deathsinger's Power stacks) runs to the centre plate and deposits
-5. Previous depositor is now the new Brand Claimer — **rotate and repeat**
+5. Previous depositor is now the new Brand Claimer — rotate and repeat
 
 ### Player Roles
 
-| Role | Players | Job |
-|------|---------|-----|
-| Left side | P1, P2, P3 | Run the Brand rotation on the left Totem |
-| Right side | P4, P5, P6 | Run the Brand rotation on the right Totem |
+| Player | Role | Description |
+|--------|------|-------------|
+| Waley | Left side — Lead | Runs left Brand rotation; calls Brand timer across both sides; coordinates with Daniel on right |
+| Jade | Left side | Rotates through Brand Holder → Depositor → Claimer on the left |
+| Jordan | Left side | Rotates through Brand Holder → Depositor → Claimer on the left |
+| Andre | Right side | Rotates through Brand Holder → Depositor → Claimer on the right |
+| Jebb | Right side | Rotates through Brand Holder → Depositor → Claimer on the right |
+| Daniel | Right side — caller | Runs right Brand rotation; calls right-side Brand timer back to Waley |
 
 ### Tips
-
-- **Thunderlord** is the best weapon here — kills enemies in large groups and builds Deathsinger's Power fast
+- Thunderlord is the best weapon here — kills groups fast and builds stacks quickly
 - An **Unstoppable Ogre** spawns at the centre plate periodically — bring Unstoppable anti-Champion mods
-- Don't kill enemies in the centre room; let them funnel into the Totem rooms where the Brand Holders need them for kills
-- Warlocks should drop **Well of Radiance** under the Totem or on the centre plate for survivability
+- Don't kill enemies in the centre room — let them funnel into the Totem rooms where the Brand Holders need them
 - **Do not use Shadowshot in the centre room** — it slows enemies from reaching the Totem rooms
 
 ---
 
 ## 4. Warpriest
 
-**Goal:** Read the Glyph sequence to earn the Brand of the Initiate, then DPS the Warpriest within that aura. Extend the Brand using Blightguards. Take cover behind Monoliths to survive the Oculus blast between phases.
+![Warpriest](warpriest.png)
+
+**Goal:** Read the Glyph sequence to earn the Brand of the Initiate, DPS the Warpriest within that aura, extend the Brand using Blightguards, and hide behind Monoliths to survive the Oculus blast between phases.
+
+### Recommended Loadout
+
+| Slot | Recommendation | Notes |
+|------|---------------|-------|
+| **Primary** | Any ad clear primary | Clear Hive waves before and between DPS phases |
+| **Special** | Sniper Rifle with Auto-Loading Holster | Pair with LFR; reloads itself while LFR is active |
+| **Heavy** | Linear Fusion Rifle with Firing Line | Highest sustained single-target DPS on Warpriest |
+| **Exotic support** | Divinity (Jordan) | 30% debuff on Warpriest; crit bubble makes landing shots easy |
 
 ### Key Mechanics
 
 | Mechanic | What It Does |
 |----------|-------------|
-| **Glyph sequence** | Three plates must be stood on in the correct order; the player on the last plate earns the Brand of the Initiate |
-| **Brand of the Initiate** | Creates an aura that allows damage to the Warpriest; expires in ~15 sec — kills the holder if it reaches zero |
-| **Blightguard** | A Taken Knight that drops Brand Claimer when killed; Brand Claimer lets someone take the Brand and extend the damage phase |
+| **Glyph sequence** | Three plates stood on in the correct order; the player on the last plate earns the Brand of the Initiate |
+| **Brand of the Initiate** | Creates an aura that allows damage to the Warpriest; expires in ~15 sec |
+| **Blightguard** | A Taken Knight that drops Brand Claimer when killed; extends the damage phase when taken |
 | **Monolith** | Large pillars used for cover during the Oculus blast; one is destroyed per phase — maximum 4 damage phases |
-| **Oculus blast** | End-of-phase wipe attack; hide behind a Monolith as a full team |
+| **Oculus blast** | End-of-phase wipe attack; entire team hides behind one Monolith |
 
 ### Steps
 
@@ -176,19 +198,17 @@ Split into two teams of three: left side and right side. Each side has one Annih
 2. Kill all Hive waves until **Revenant Knights** spawn in each quadrant — kill all three to trigger the Glyph sequence
 
 **Glyph sequence:**
-1. Middle Plate Holder steps on the centre plate — look for a glowing Monolith (if none visible, middle is first)
-2. Middle Plate Holder calls out which Monolith is glowing and **steps off their plate**
-3. The called Plate Holder steps on their plate and looks for the next glowing Monolith — calls it out
-4. Third Plate Holder steps on their plate
-5. The player on the **third plate** receives the **Brand of the Initiate**
+1. Waley (Middle Plate) steps on the centre plate — looks for a glowing Monolith and calls it out; then steps off
+2. The called Plate Holder steps on their plate, looks for the next glowing Monolith, and calls it
+3. Third Plate Holder steps on their plate — this player receives the **Brand of the Initiate**
 
-> 📌 The middle Plate Holder always steps off after reading, even if the middle plate is called first — they step back on as the third plate in that case.
+> The middle Plate Holder always steps off after reading, even if middle is called first — they step back on as the third plate.
 
 **DPS phase:**
-1. All players group up and begin shooting the Warpriest — aim for the head (use Divinity bubble)
-2. Two **Knight Slayers** must locate Blightguard Knights spawning in the two areas where the Brand was NOT picked up
-3. Slayer 1 kills their Blightguard, picks up Brand Claimer, and takes the Brand just before it expires — call out remaining time
-4. Slayer 2 does the same to extend the Brand a second time
+1. All players group up and shoot the Warpriest — Jordan locks Divinity on target
+2. Andre and Jebb locate their assigned Blightguard Knights and kill them
+3. Andre picks up Brand Claimer and takes the Brand just before it expires — calls remaining time to Waley
+4. Jebb does the same to extend the Brand a second time
 5. After the second extension the Brand falls off safely
 
 **End of phase:**
@@ -197,125 +217,121 @@ Split into two teams of three: left side and right side. Each side has one Annih
 
 ### Player Roles
 
-| Role | Players | Job |
-|------|---------|-----|
-| Left Plate Holder | P1 | Stand on left plate during Glyph sequence; assist add clear |
-| Middle Plate Holder | P2 | Triggers the Glyph read; calls first Monolith; steps off |
-| Right Plate Holder | P3 | Stand on right plate during Glyph sequence; assist add clear |
-| Knight Slayer 1 | P4 | Finds and kills first Blightguard; takes Brand before it expires |
-| Knight Slayer 2 | P5 | Finds and kills second Blightguard; extends Brand a second time |
-| DPS / Add Clear | P6 | Full damage on Warpriest; kills enemy adds between phases |
-
-### DPS Setup
-
-Group up between the **middle and right Monolith** — this keeps the Warpriest's head visible and lets you reach either pillar quickly for cover.
-
-| Slot | Recommendation |
-|------|---------------|
-| Debuff | Divinity (1 player) or Shadowshot — not both |
-| Primary DPS | Linear Fusion Rifle with Firing Line (Taipan, Stormchaser) |
-| Secondary | Sniper Rifle with Firing Line + Auto-Loading Holster |
-| Buff | Well of Radiance or Ward of Dawn (Weapons of Light) |
+| Player | Role | Description |
+|--------|------|-------------|
+| Waley | Middle Plate — Lead | Triggers the Glyph read; calls which Monolith is lit; calls DPS timing and Oculus cover |
+| Jade | Left Plate | Stands on left plate during Glyph sequence; add clear between phases |
+| Jordan | Right Plate + Divinity | Stands on right plate; holds Divinity on Warpriest the entire DPS window |
+| Andre | Knight Slayer 1 | Finds and kills the first Blightguard; takes the Brand before it expires |
+| Jebb | Knight Slayer 2 | Finds and kills the second Blightguard; extends the Brand a second time |
+| Daniel | DPS + add clear | Full damage on Warpriest; kills enemy adds and Blistered Wizards between phases (use Aeon gauntlets for Heavy ammo) |
 
 ### Tips
-
-- You have a **maximum of 4 damage phases** (one Monolith per phase) — kill the Warpriest within 4 phases
-- If Slayer 1 doesn't make it back in time, Slayer 2 must be ready to take the Brand immediately
-- The Blightguards spawn in the areas where the Brand of the Initiate was NOT earned — e.g. if right plate was last, Blightguards spawn left and middle
-- Kill **Blistered Wizards** and **Servile Minotaurs** with Finishers (Aeon gauntlets) to drop Heavy ammo for the team
+- You have a **maximum of 4 damage phases** — one Monolith per phase
+- Blightguards spawn in the areas where the Brand of the Initiate was NOT earned
+- Group up between the **middle and right Monolith** for the best angle on Warpriest's head
 
 ---
 
 ## 5. Golgoroth's Maze
 
+![Golgороths Maze](golgороths-maze.png)
+
 **Goal:** Navigate the dark maze to reach Golgoroth's arena.
 
 ### Directions (from the portal after Warpriest)
-
-From the large lantern at the maze entrance, follow these turns:
 
 ```
 Right → Left → Left → Right → Forward
 ```
 
-Two large Knights guard the door at the end. Kill them and gather the team — the door opens when everyone is present.
+Two large Knights guard the door at the end. Kill them — the door opens when everyone is present. Waley leads the group through.
 
 ---
 
 ## 6. Golgoroth
 
+![Golgoroth](golgoroth.png)
+
 **Goal:** Two players trade Golgoroth's Gaze back and forth while four players jump into Pools of Reclaimed Light and DPS his stomach. Shoot down 6 orbs across the damage phase.
+
+### Recommended Loadout
+
+| Slot | Recommendation | Notes |
+|------|---------------|-------|
+| **Primary** | Any ad clear primary | Kills enemies that spawn on the far side between phases |
+| **Special** | Sniper Rifle | Shoot down ceiling orbs; also available for DPS |
+| **Heavy** | Linear Fusion Rifle | Primary DPS weapon on Golgoroth's stomach |
+| **Exotic support** | Divinity (Jordan) or Shadowshot (one player) | Debuff Golgoroth; Divinity and Shadowshot do not stack — pick one |
 
 ### Key Mechanics
 
 | Mechanic | What It Does |
 |----------|-------------|
 | **Golgoroth's Gaze** | Earned by shooting the tumour on his back; he fires darts at the Gaze holder for 20 sec instead of killing the pool team |
-| **Pool of Reclaimed Light** | Formed when ceiling orbs are shot down; standing in it grants increased damage to Golgoroth's stomach |
-| **Unstable Essence** | Randomly selects one player in the pool; they explode after a countdown — deadly to nearby allies but damages Golgoroth |
-| **Tablet of Ruin** | Gains a charge for every orb/pool missed; at 6 charges it wipes the team |
+| **Pool of Reclaimed Light** | Formed when ceiling orbs are shot down; standing in it grants increased damage to his stomach |
+| **Unstable Essence** | Randomly selects one player in the pool; they explode after a countdown — move away from teammates but stay near Golgoroth for bonus damage |
+| **Tablet of Ruin** | Gains a charge for every missed orb/pool; at 6 charges the team wipes |
 
 ### Steps
-
 1. Shoot the central orb to summon Golgoroth; clear enemies around the arena
-2. **Gaze Holder 1** shoots Golgoroth's back tumour to take his Gaze — reposition on the perimeter so the pool team has a clear angle on his stomach
-3. Pool team shoots down the first ceiling orb, jumps into the Pool of Reclaimed Light, and DPS his stomach with Linear Fusion Rifles
-4. When Gaze Holder 1's timer has ~2 seconds left, **Gaze Holder 2** shoots the back tumour to steal the Gaze
-5. Pool team locates and shoots the next orb (they zigzag: left, right, left, right, left, right), jumps to new pool, continues DPS
-6. **Repeat until all 6 orbs are used** — pool team exits the pit and the phase ends
+2. Waley shoots Golgoroth's back tumour to take the Gaze first — repositions on the perimeter so the pool team has a clear stomach angle
+3. Pool team shoots down the first ceiling orb, jumps into the Pool, and DPS his stomach
+4. When Waley's timer has ~2 seconds left, **Daniel** shoots the back tumour to steal the Gaze
+5. Pool team shoots the next orb (zigzag: left → right → left → right → left → right), jumps to new pool, continues DPS
+6. Repeat until all 6 orbs are used — pool team exits the pit and the phase ends
 7. Clear enemy respawns, then repeat from step 2
 
-> ⚠️ If you get **Unstable Essence** (green screen edge), move away from teammates before it detonates — staying near Golgoroth deals extra damage.
-
-> ⚠️ Golgoroth has **3 full rotations maximum** to be killed before a wipe.
+> ⚠️ Golgoroth has **3 full rotations maximum** before a wipe.
 
 ### Player Roles
 
-| Role | Players | Job |
-|------|---------|-----|
-| Gaze Holders | P1, P2 | Trade Golgoroth's Gaze back and forth; position so pool team has a clear stomach shot |
-| Pool DPS team | P3, P4, P5, P6 | Shoot down orbs; jump into pools; DPS stomach; watch for Unstable Essence |
-
-### DPS Setup
-
-- **Well of Radiance** at each Pool of Reclaimed Light dramatically increases output — use Phoenix Protocol to have extra Wells
-- Linear Fusion Rifles are the primary DPS weapon
-- **Shadowshot** or **Tractor Cannon** debuff Golgoroth
-- Gaze Holders can drop into a pool briefly while not holding Gaze — just don't get Unstable Essence while you need to take the Gaze
+| Player | Role | Description |
+|--------|------|-------------|
+| Waley | Gaze Holder 1 — Lead | Takes Gaze first; stays on the upper perimeter; calls orb positions and Gaze transfer timing |
+| Jade | Pool DPS | Shoots down orbs; jumps into pools; DPS stomach; calls Unstable Essence on self |
+| Jordan | Pool DPS + Divinity | Locks Divinity on Golgoroth's stomach during each pool; shoots orbs |
+| Andre | Pool DPS | Shoots orbs; DPS stomach; calls Unstable Essence on self |
+| Jebb | Pool DPS | Shoots orbs; DPS stomach; calls Unstable Essence on self |
+| Daniel | Gaze Holder 2 | Steals Gaze from Waley when called; stays on the upper perimeter; hands back to Waley when timer runs low |
 
 ### Tips
-
-- Gaze Holders should stay on the **upper perimeter platforms** — it makes them easy targets for Golgoroth's darts and keeps them out of the pool team's way
-- Good form: after transferring the Gaze, the previous Gaze Holder helps shoot down the next orb
-- Kill the heavy enemies that spawn on the far side using Finishers (Aeon gauntlets) for Heavy ammo drops
+- Gaze Holders stay on the **upper perimeter platforms** — easy targets for Golgoroth's darts and out of the pool team's way
+- After transferring the Gaze, the previous holder helps shoot down the next orb
+- Kill heavy enemies on the far side using Finishers (Aeon gauntlets) for Heavy ammo drops
+- Well of Radiance at each Pool of Reclaimed Light dramatically increases output — Phoenix Protocol recommended
 
 ---
 
 ## 7. The Dick Wall
 
-**Goal:** Navigate a room full of phallic pistons that fire randomly and launch Guardians across the room. Use plates to build safe platforms.
+![The Dick Wall](the-dick-wall.png)
+
+**Goal:** Navigate a room full of pistons that fire randomly and can launch Guardians. Use plates to build safe platforms.
 
 ### Steps
-
 1. Enter the room and head **left**, avoiding the pistons along the walls
 2. Find the first plate and have one player stand on it — two platforms spawn across the room
 3. Four players cross while the plate holder stays behind
 4. On the far side, another player stands on the second plate
 5. Continue finding and standing on **4 plates total** — each activates more of the path
-6. Once all 4 plates are held, the path fully solidifies and everyone can regroup
+6. Once all 4 plates are held, the path fully solidifies and everyone regroups
 7. Follow the path up to a large door — it opens when everyone is present
 8. Complete the short vertical jump section and proceed to the Daughters arena
 
-### Tips
+**Plate holders:** Waley/Jade on plates 1 and 2; Jebb/Daniel on plates 3 and 4. Jordan and Andre cross freely.
 
+### Tips
 - The pistons fire randomly and hit hard — don't rush
-- If someone gets launched, they'll likely die — wait for the piston to retract before moving past it
+- Wait for each piston to fully retract before moving past it
 
 ---
 
 ## 8. Daughters of Oryx
 
-**Goal:** Stand on two platforms in the correct order to form the Ascendant path, send the Torn Between Dimensions player across it to collect Blightguard pieces, then steal an Aura from a Daughter and DPS her. Repeat for both daughters.
+![Daughters of Oryx](daughters-of-oryx.png)
+
+**Goal:** Stand on platforms in the correct order to form the Ascendant path, send the Torn Between Dimensions player across it to collect Blightguard pieces, steal an Aura from a Daughter, and DPS her. Repeat for both daughters.
 
 ### Arena Layout
 
@@ -329,149 +345,126 @@ Two large Knights guard the door at the end. Kill them and gather the team — t
            (entrance / back)
 ```
 
-L1/R1 are the two platforms near the entrance. L2/R2 are near the front (Saturn side).
-
 ### Key Mechanics
 
 | Mechanic | What It Does |
 |----------|-------------|
-| **Torn Between Dimensions** | One random player (not the active Plate Holder) cannot shoot or attack; must cross the Ascendant path to collect Blightguard pieces |
-| **Ascendant path** | Formed by standing on the correct two platforms in sequence; only Torn player can traverse it |
-| **Dirge of Unraveling** | One Daughter begins singing — **team wipes in ~2 minutes** if not stopped |
+| **Torn Between Dimensions** | One random player cannot shoot or attack; must cross the Ascendant path to collect Blightguard pieces |
+| **Ascendant path** | Formed by standing on the correct two platforms in sequence; only the Torn player can traverse it |
+| **Dirge of Unraveling** | One Daughter begins singing — team wipes in ~2 minutes if not stopped |
 | **Aura of Unraveling** | Stolen from the Daughter who is shooting; protects the team and enables DPS |
 
 ### Steps (repeat 3 times per Daughter)
-
-1. Kill the Knight on a glowing platform and have the **Plate Holder** jump up on it
-2. While standing on the platform, look for a symbol floating above another platform — call it out
-3. That second platform's owner jumps up (or a Floater if the Torn player owns it)
-4. The **Torn Between Dimensions** player crosses the Ascendant path that forms between the two platforms and collects the Blightguard piece
-5. When the piece is collected, **everyone immediately steps off their platforms**
-6. A new Knight spawns on a new glowing platform — repeat steps 1–5
+1. Kill the Knight on a glowing platform — the **Plate Holder** jumps up on it
+2. Plate Holder looks for a symbol floating above another platform and calls it out
+3. That second platform's Plate Holder jumps up (or the Floater if their holder is Torn)
+4. The **Torn Between Dimensions** player crosses the Ascendant path and collects the Blightguard piece
+5. When the piece is collected, **everyone steps off their platforms immediately**
+6. A new Knight spawns on a new glowing platform — repeat
 
 **On the 3rd collection:**
-- The Torn player holds interact to pick up the full **Brand Claimer** buff
-- They run to the **Daughter who is shooting** (not singing) and hold interact to steal her Aura
+- Torn player holds interact to pick up the full **Brand Claimer** buff
+- They run to the **Daughter who is shooting** (not singing) and steal her Aura
 - All players group up inside the Aura on the side ledge of the other Daughter's pillar
 - DPS the vulnerable Daughter — Gjallarhorn + Legendary Rockets kills her fast
-- When she dies, repeat the entire sequence for the second Daughter
+- Repeat the entire sequence for the second Daughter
 
 ### Player Roles
 
-| Role | Players | Job |
-|------|---------|-----|
-| L1 Plate Holder | P1 | Stands on L1 when it glows; calls out second platform |
-| R1 Plate Holder | P2 | Stands on R1 when it glows |
-| L2 Plate Holder | P3 | Stands on L2 when it glows |
-| R2 Plate Holder | P4 | Stands on R2 when it glows |
-| Floater (front) | P5 | Covers L2/R2 if their Plate Holder is Torn |
-| Floater (back) | P6 | Covers L1/R1 if their Plate Holder is Torn |
-
-### DPS Setup
-
-- **Gjallarhorn + 5 Legendary Rockets** is the most efficient — kills each Daughter in one well-executed phase
-- Stand on the **small ledge jutting off the other Daughter's pillar** for the best angle
-- If a Plate Holder is Torn, the assigned Floater for that half of the room steps up immediately
+| Player | Role | Description |
+|--------|------|-------------|
+| Waley | L1 Plate — Lead | Stands on L1 when it glows; calls the second platform; coordinates Torn player movement and Aura steal timing |
+| Jade | R1 Plate | Stands on R1 when it glows |
+| Jordan | L2 Plate | Stands on L2 when it glows |
+| Andre | R2 Plate | Stands on R2 when it glows |
+| Jebb | Floater front (L2/R2) | Covers L2 or R2 if Jordan or Andre is Torn |
+| Daniel | Floater back (L1/R1) | Covers L1 or R1 if Waley or Jade is Torn |
 
 ### Tips
-
-- You have **~2 minutes total** per Daughter from when she starts singing — the faster the platforms, the more DPS time
+- You have **~2 minutes total** per Daughter from when she starts singing — faster platforms = more DPS time
 - Groups of enemies spawn beside each platform mid-encounter — kill them quickly, especially 4 Taken Phalanx near R1
-- Snipers spawn on floating islands when the second platform activates — call them out for the team
+- Snipers spawn on floating islands when the second platform activates — call them out
 
 ---
 
 ## 9. Oryx, The Taken King
 
-**Goal:** Run the same Ascendant path mechanic as Daughters but now you also need to kill Light-Eater Ogres, protect their Corrupted Light bombs from Knights, and detonate all 4 bombs simultaneously to stun Oryx and open his chest for DPS. Survive intermissions and repeat until dead.
+![Oryx](oryx.png)
+
+**Goal:** Run the same Ascendant path mechanic but now also kill Light-Eater Ogres, protect Corrupted Light bombs from Knights, and detonate all 4 bombs simultaneously to stun Oryx and open his chest for DPS.
+
+### Recommended Loadout
+
+| Slot | Recommendation | Notes |
+|------|---------------|-------|
+| **Primary** | Any ad clear primary | Thrall swarms during DPS; kills Light-Eater Knights |
+| **Special** | Sniper Rifle | Add clear and available for DPS on Oryx's chest |
+| **Heavy** | Linear Fusion Rifle + Gjallarhorn swap | LFR for sustained DPS on the chest; Gjallarhorn for burst on Final Stand |
+| **Exotic support** | Divinity (Jordan) | Locks crit bubble on Oryx's chest the entire DPS window |
 
 ### Key Mechanics
 
 | Mechanic | What It Does |
 |----------|-------------|
 | **Torn Between Dimensions** | Same as Daughters — one player collects Blightguard pieces via the Ascendant path |
-| **Light-Eater Ogre** | Spawns beside each platform; when killed drops a **Corrupted Light bomb** |
-| **Light-Eater Knight** | Spawns diagonally from its Ogre's death spot; runs to the Corrupted Light to eat/delete it — kill immediately |
-| **Corrupted Light bomb** | Left by killed Ogres; all 4 must be detonated simultaneously to stun Oryx; stepping inside the wispy edge activates it |
+| **Light-Eater Ogre** | Spawns beside each platform; killed Ogre drops a Corrupted Light bomb |
+| **Light-Eater Knight** | Spawns diagonally from its Ogre's death spot; runs to eat the Corrupted Light — kill immediately |
+| **Corrupted Light bomb** | All 4 must be detonated simultaneously to stun Oryx; stepping inside the wispy edge activates it |
 | **Aura of Immortality** | Stolen from the Vessel of Oryx Knight using the Blightguard; protects players from bomb explosions |
-| **Shade of Oryx** | An intermission — players are teleported one-by-one into a dome and must kill the Shade before it wipes the team |
+| **Shade of Oryx (intermission)** | Players teleport one-by-one into a dome and must kill the Shade before it wipes |
 
 ### Full Phase Loop
 
 **Step 1 — Ascendant path (×3, same as Daughters):**
-1. Oryx slams a platform with his fist — that glowing platform is the **start** of the Torn sequence
-2. Plate Holder steps up; calls second platform; Torn player crosses path and collects piece
+1. Oryx slams a platform — that glowing platform starts the Torn sequence
+2. Plate Holder steps up; calls second platform; Torn player crosses and collects piece
 3. Repeat 3 times
-4. On the 3rd piece, Torn player picks up the **Brand Claimer**, locates the **Vessel of Oryx** Knight running down the middle, and steals the **Aura of Immortality**
+4. On the 3rd piece, Torn player picks up the **Brand Claimer**, locates the **Vessel of Oryx** Knight, and steals the **Aura of Immortality**
 
-> ⚠️ The **3rd Torn player also becomes the Aura/Brand holder** — they should not leave the centre to detonate their own bomb. Their Floater covers it.
+> ⚠️ The 3rd Torn player also becomes the Aura holder — they should not leave the centre to detonate their own bomb. Jebb covers it.
 
-**Step 2 — Ogre and Knight kills (happening simultaneously with Step 1):**
+**Step 2 — Ogre and Knight kills (simultaneous with Step 1):**
 1. 4 Light-Eater Ogres spawn beside each platform — all 4 Plate Holders kill their Ogre immediately
-2. Each dead Ogre drops a Corrupted Light bomb — do NOT touch the bomb yet
-3. A Light-Eater Knight spawns diagonally from each Ogre's death spot — kill each Knight before they reach and eat the bomb
+2. Each dead Ogre drops a Corrupted Light bomb — **do NOT touch the bomb yet**
+3. A Light-Eater Knight spawns diagonally from each Ogre — kill each Knight before they reach the bomb
 4. Once all Knights are dead, bombs are safe and ready to detonate
 
 **Step 3 — Detonation:**
-1. Oryx calls upon the Darkness (on-screen message) — all 4 bomb activators walk into the wispy edge of their bomb simultaneously
+1. Waley calls the detonation ("Oryx is calling upon the Darkness") — all 4 bomb activators walk into the wispy edge of their bomb simultaneously
 2. When the detonation message appears for your bomb, **immediately run back to the Aura holder in the centre**
-3. Bombs explode, stunning Oryx and opening his chest — **DPS his chest** with LFRs, Snipers, and Supers
-4. Each bomb adds more time to the stun — aim to detonate all 4
+3. Bombs explode, stunning Oryx and opening his chest — DPS his chest
+4. Jordan locks Divinity on the chest the entire window
 
-**Step 4 — Intermission (random, one of two):**
+**Step 4 — Intermission:**
 
 | Intermission | How to Survive |
 |-------------|---------------|
-| **Bomb barrage** | Run laps to dodge, OR kill the 4 Taken Knights on platforms to stop it early |
-| **Shade of Oryx (dome)** | Players teleport in one at a time; kill the Shade before all 6 are inside or it wipes |
+| **Bomb barrage** | Run laps to dodge; OR kill the 4 Taken Knights on platforms to stop it early |
+| **Shade of Oryx (dome)** | Players teleport in one at a time; kill the Shade before all 6 are inside |
 
-**Repeat until Oryx reaches ~25% health → Final Stand.**
+Repeat until Oryx reaches ~25% health → Final Stand.
 
 ### Final Stand
-
 1. Two Light-Eater Ogres spawn at R2 then L2 — kill both, protect both bombs from Knights
-2. When Oryx calls upon the Darkness, detonate both bombs
-3. Bomb player channels the first bomb, runs back to Aura, then repeats with the second bomb
-4. DPS Oryx's chest every time it opens — if you fail to kill him after both final stand stuns, he wipes the raid
+2. Waley calls detonation — detonate both bombs
+3. DPS Oryx's chest every time it opens — if he survives both final stand stuns, he wipes the raid
 
 ### Player Roles
 
-| Role | Players | Job |
-|------|---------|-----|
-| L1 Plate Holder | P1 | Activates L1; kills L1 Ogre and Knight; detonates L1 bomb |
-| R1 Plate Holder | P2 | Activates R1; kills R1 Ogre and Knight; detonates R1 bomb |
-| L2 Plate Holder | P3 | Activates L2; kills L2 Ogre and Knight; detonates L2 bomb |
-| R2 Plate Holder | P4 | Activates R2; kills R2 Ogre and Knight; detonates R2 bomb |
-| Floater (front) | P5 | Covers L2/R2 platforms if Plate Holder is Torn; covers 3rd Torn player's bomb |
-| Floater (back) / Aura support | P6 | Covers L1/R1 if Plate Holder is Torn; stays with Aura holder during detonation |
-
-### DPS Setup
-
-- **Divinity** bubble on Oryx's chest
-- Linear Fusion Rifles + Sniper Rifles (with Firing Line)
-- Well of Radiance inside the Aura of Immortality
-- One-and-done Supers first (Thundercrash, Nova Bomb, Blade Barrage)
-- **Outbreak Perfected** as a backup if Heavy runs dry
+| Player | Role | Description |
+|--------|------|-------------|
+| Waley | L1 Plate — Lead | Activates L1; kills L1 Ogre and Knight; detonates L1 bomb; calls all detonation timing and Shade intermissions |
+| Jade | R1 Plate | Activates R1; kills R1 Ogre and Knight; detonates R1 bomb |
+| Jordan | L2 Plate + Divinity | Activates L2; kills L2 Ogre and Knight; detonates L2 bomb; locks Divinity on Oryx's chest during DPS |
+| Andre | R2 Plate | Activates R2; kills R2 Ogre and Knight; detonates R2 bomb |
+| Jebb | Floater front | Covers L2/R2 if Jordan or Andre is Torn; covers the 3rd Torn player's bomb |
+| Daniel | Floater back / Aura support | Covers L1/R1 if Waley or Jade is Torn; stays with Aura holder during detonation |
 
 ### Tips
-
-- The Aura/Brand holder should stay **as close to the centre of the room as possible** — this gives all 4 bomb activators the best chance of making it back in time
-- Thrall will swarm you during DPS — throw a grenade at your feet to clear them (especially useful for Titans with Sunspots)
-- Once Oryx is stunned and everyone is alive you can reposition anywhere for DPS
-- In the **final stand**, only 2 Ogres spawn (no Knights) — protect those bombs and burn everything
+- The Aura/Brand holder stays **as close to the centre of the room as possible** — gives all 4 bomb activators the best chance of making it back in time
+- Throw a grenade at your feet during DPS to clear Thrall swarms (especially useful for Titans with Sunspots)
+- In the **final stand**, only 2 Ogres spawn with no Knights — protect those bombs and burn everything
 
 ---
 
-## 🎁 Loot Table
-
-| Encounter | Weapons | Armor |
-|-----------|---------|-------|
-| Annihilator Totems | Zaouli's Bane (HC), Qullim's Terminus (MG), Defiance of Yasmin (Sniper) | Arms, Class Item |
-| Warpriest | Zaouli's Bane (HC), Smite of Merain (Pulse), Defiance of Yasmin (Sniper) | Arms, Chest |
-| Golgoroth | Zaouli's Bane (HC), Qullim's Terminus (MG), Smite of Merain (Pulse) | Legs, Chest |
-| Daughters of Oryx | Qullim's Terminus (MG), Defiance of Yasmin (Sniper), Midha's Reckoning (Fusion) | Head, Legs |
-| Oryx | Midha's Reckoning (Fusion), Smite of Merain (Pulse), **Touch of Malice ⭐** | Head, Arms |
-
-> ⭐ **Touch of Malice** (Exotic Scout Rifle) is a random drop from Oryx — uses the wielder's health as ammo. Not guaranteed on first clear.
-
----
+*Good luck, Guardian.*
