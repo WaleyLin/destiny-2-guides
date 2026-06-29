@@ -4,45 +4,44 @@
 
 ## Quick Reference
 
-| # | Encounter | Type | Challenge |
-|---|-----------|------|-----------|
-| 1 | [The Abyss](#1-the-abyss) | Traversal | Conservation of Energy |
-| 2 | [Oversoul Throne Bridge](#2-oversoul-throne-bridge) | Relay / traversal | Precarious Balance |
-| 3 | [Ir Yut, the Deathsinger](#3-ir-yut-the-deathsinger) | Boss fight | Equal Vessels |
-| 4 | [Crota, Son of Oryx](#4-crota-son-of-oryx) | Final boss | All For One |
+| # | Encounter | Type |
+|---|-----------|------|
+| 1 | [The Abyss](#1-the-abyss) | Traversal |
+| 2 | [Oversoul Throne Bridge](#2-oversoul-throne-bridge) | Relay / traversal |
+| 3 | [Ir Yut, the Deathsinger](#3-ir-yut-the-deathsinger) | Boss fight |
+| 4 | [Crota, Son of Oryx](#4-crota-son-of-oryx) | Final boss |
 
 ---
 
 ## Recommended Loadout (All Encounters)
 
-| Weapon | Why |
-|--------|-----|
-| **The Lament** (Exotic Sword) | Best DPS on Crota by a significant margin; heals you while attacking |
-| **Tractor Cannon** (Exotic Shotgun) | Debuffs Crota so the whole team deals massively more damage |
-| **Divinity** (Exotic Trace Rifle) | Creates a large crit bubble on Ir Yut; her hitbox is small and hard to hit |
-| **Leviathan's Breath** (Exotic Bow) | Pairs with Divinity for Ir Yut; solid add clear and boss damage |
-| **Shotgun** (slug or One-Two Punch) | Handles Hive Knights fast; Heritage, Wastelander M5, or Basso Ostinato all work |
-| **Sniper Rifle / Scout Rifle** | Long-range coverage during the Bridge and add-heavy sections |
-| **Riskrunner** (Exotic SMG) | Arc damage resistance in the Abyss; shreds Thrall chains |
-| **Well of Radiance** (Warlock) | Multiple Wells are near-essential for Crota DPS — bring as many Warlocks as you can |
+| Slot | Weapon | Why |
+|------|--------|-----|
+| **Primary** | Any strong ad clear primary (auto rifle, SMG, pulse rifle) | Constant Thrall and Knight waves throughout every encounter |
+| **Special** | Shotgun (slug or One-Two Punch) | Fast burst on Hive Knights; Heritage, Wastelander M5, or Basso Ostinato all work |
+| **Heavy** | Rocket Launcher (Gjallarhorn) or Linear Fusion Rifle | Boss damage on Ir Yut and Crota |
+| **Exotic swap** | Riskrunner (Exotic SMG) | Arc damage resistance in the Abyss; shreds Thrall chains |
+| **Exotic swap** | The Lament (Exotic Sword) | Best DPS on Crota by a significant margin; heals while attacking |
+| **Support** | Tractor Cannon (Jordan — Crota only) | Debuffs Crota so the whole team deals massively more damage |
+| **Support** | Divinity (Jordan — Ir Yut only) | Creates a crit bubble on Ir Yut; her hitbox is small and hard to hit otherwise |
 
-> ⚠️ Bring Arbalest or another Anti-Barrier weapon for the Barrier Champions during the Bridge.
+> ⚠️ Bring an Anti-Barrier weapon for the Barrier Champions during the Bridge.
 
 ---
 
 ## The Chalice of Light — Core Mechanic
 
-Every encounter in this raid revolves around the Chalice of Light. Learn this before you set foot inside.
+Every encounter revolves around the Chalice of Light. Learn this before you step inside.
 
 | Status | What it means |
 |--------|--------------|
-| **Holding the Chalice** | A bar on your screen slowly fills toward 4 bars. You will die if it fills and no one takes it. |
-| **Enlightened** | Gained when a fully-charged Chalice is taken from you by a teammate. Lets you activate lanterns, build bridges, pick up swords, cross the bridge, pass barriers, and deal damage to the Oversoul. Using any of these removes Enlightened immediately. |
-| **Engulfed in Light** | 10-second death timer. Triggers when the Chalice fills and you haven't passed it yet. |
+| **Holding the Chalice** | A bar slowly fills toward 4 bars. You die if it fills and no one takes it. |
+| **Enlightened** | Gained when a fully-charged Chalice is passed to you. Lets you activate lanterns, build bridges, pick up swords, cross the bridge, pass barriers, and damage the Oversoul. Using any of these removes Enlightened immediately. |
+| **Engulfed in Light** | 10-second death timer. Triggers when the Chalice fills and you haven't passed it. |
 | **Drained of Light** | 45-second debuff preventing you from picking up the Chalice. Gained after spending your Enlightened buff. |
-| **Preservation Node** | A small node where you can deposit the Chalice safely without getting Engulfed. Pick it back up at any time. |
+| **Preservation Node** | A small node where you can deposit the Chalice safely. Pick it back up at any time. |
 
-**Set a passing order at the start** (Enlightened 1 → 2 → 3 → 4 → 5 → 6) and stick to it across the entire raid. This keeps things clean in every encounter.
+**Waley sets the passing order at the start** (1 → 2 → 3 → 4 → 5 → 6) and calls it across the entire raid. Stick to it every encounter.
 
 ---
 
@@ -54,182 +53,217 @@ When you load in, a Chalice of Light and a bridge-building plate are directly in
 
 ## 1. The Abyss
 
+![The Abyss](the-abyss.png)
+
 **Goal:** Navigate a dark maze to the end, activate the final bridge, and escape.
 
+### Recommended Loadout
+
+| Slot | Recommendation | Notes |
+|------|---------------|-------|
+| **Primary** | Riskrunner (Exotic SMG) | Arc resistance in the dark; chains Arc kills through Thrall groups efficiently |
+| **Special** | Shotgun | Burst Knights that block the path |
+| **Heavy** | Any — not needed for DPS here | Save rockets for Ir Yut and Crota |
+
 ### How it Works
-The Abyss is filled with darkness. Standing in it gives you **Weight of Darkness** (stacks to x10, removes sprinting and jumping at high stacks) and a **Engulfed in Darkness** countdown from 60 seconds — hitting zero kills you. Lighting lanterns resets everyone's Engulfed in Darkness timer and reduces Weight of Darkness for players standing nearby.
+Standing in darkness gives **Weight of Darkness** (stacks to x10, removes sprinting/jumping at high stacks) and an **Engulfed in Darkness** countdown from 60 seconds — zero kills you. Lighting lanterns resets everyone's timer and reduces Weight of Darkness for nearby players.
 
-Lanterns are in groups. The last lantern of each group has a **Preservation Node** beside it. You must deposit the Chalice here to activate the next group of lanterns before you can light the current one.
+The last lantern of each group has a **Preservation Node** beside it. Deposit the Chalice here before lighting that lantern.
 
-> ⚠️ The node lantern is identified by the next lantern ahead being dark/unlit. If the next one glows green, you're not at the node yet.
+> ⚠️ If the next lantern ahead is dark/unlit, you're at a node lantern — deposit the Chalice first. If it's already glowing green, keep moving.
 
 ### Steps
-1. Pick up the Chalice and pass it around in your set order to get players Enlightened
-2. At each lantern, check if there's a Preservation Node beside it
-   - **If yes:** deposit the Chalice first, then use Enlightened to light the lantern — pick the Chalice back up and continue
-   - **If no:** use Enlightened to light the lantern and keep passing the Chalice
-3. Move as a group — don't outrun the lantern light or you'll die to Engulfed in Darkness
-4. At the end of the path, stand on the plate and deposit Enlightened buffs to build the final bridge
-5. Survive the wave (Unstoppable Ogres, Knights, Thrall) until the bridge finishes — cross it to complete the encounter
+1. Waley calls the passing order — cycle the Chalice to get players Enlightened
+2. At each lantern, check for a Preservation Node beside it
+   - **If yes:** deposit Chalice first → light the lantern → pick Chalice back up
+   - **If no:** light the lantern and keep passing
+3. Move as a group — don't outrun the lantern light
+4. At the end of the path, stand on the plate and dump Enlightened buffs to build the final bridge
+5. Survive the wave (Unstoppable Ogres, Knights, Thrall) until the bridge finishes — cross to complete
+
+### Player Roles
+
+| Player | Role | Description |
+|--------|------|-------------|
+| Waley | Lead — Chalice caller | Calls passing order; calls when to deposit at nodes; leads the group's movement pace |
+| Jade | Chalice carrier 2 | Second in the pass order; stays close to Waley |
+| Jordan | Chalice carrier 3 | Third in pass order |
+| Andre | Chalice carrier 4 | Fourth in pass order |
+| Jebb | Chalice carrier 5 | Fifth in pass order |
+| Daniel | Rear guard — Chalice carrier 6 | Last in pass order; watches behind the group for Thrall flanks; calls anything closing in from the back |
 
 ### Tips
-- Grapple grenades and Eager Edge swords speed up traversal and offset the Weight of Darkness movement penalty
+- Grapple grenades and Eager Edge swords offset the movement penalty from Weight of Darkness
 - Weight of Darkness is not lethal — only Engulfed in Darkness kills you
 - The first lantern **always** has a Preservation Node beside it
-- Exploding lanterns have about 12–15 seconds before they go off — don't linger
-
-**Challenge — Conservation of Energy:** You can only light a lantern if the Chalice was preserved at the node beside it first. This limits you to roughly 7 lanterns total, so move efficiently.
 
 ---
 
 ## 2. Oversoul Throne Bridge
 
-**Goal:** Get all 6 players across the bridge by crossing with swords, then defeat 5 Gatekeepers on the far side.
+![Oversoul Throne Bridge](oversoul-throne-bridge.png)
 
-### How it Works
-The bridge must be actively constructed by someone standing on the **center plate**. Two **Annihilator Totems** flank each side of the bridge — when the center plate is occupied, these activate and will wipe the team unless a player stands under each one. You **cannot cross the bridge** unless you are holding the Chalice of Light or a Swordbearer's sword.
+**Goal:** Get all 6 players across the bridge using swords, then defeat 5 Gatekeepers on the far side.
 
-**Swordbearers** spawn on the starting side and drop a Hive sword on death. Only an **Enlightened player** can pick it up. The sword disappears quickly if left on the ground. **Gatekeepers** on the far side can only be damaged by the Hive sword.
+### Recommended Loadout
 
-| Object | Rule |
-|--------|------|
-| Center plate | Someone must stand here to keep building the bridge |
-| Annihilator Totems | One player must be under each totem on the active side |
-| Hive sword | Only Enlightened players can pick it up; only way to cross and kill Gatekeepers |
-| Preservation Node (far side) | Deposit swords here to save them for the second phase |
+| Slot | Recommendation | Notes |
+|------|---------------|-------|
+| **Primary** | Any ad clear auto rifle or SMG | Constant enemy pressure on both sides of the bridge |
+| **Special** | Sniper Rifle or Scout Rifle | Pick off enemies across the gap; let both sides cover each other |
+| **Heavy** | Rocket Launcher | Anti-Barrier weapon needed here for Barrier Champions |
+
+> The bridge must be actively constructed by someone standing on the **center plate**. Two **Annihilator Totems** flank each side — when the center plate is occupied, a player must stand under each totem or the team wipes. You **cannot cross the bridge** without the Chalice of Light or a Hive sword.
 
 ### Steps
-1. Get all 6 players Enlightened before anyone crosses — Enlightened 1 dumps their buff into the center plate to speed up construction
+1. Waley calls the full team Enlightened before anyone crosses — Enlightened 1 dumps into the center plate to speed up construction
 2. Kill the Swordbearer → Enlightened player picks up the sword → cross the bridge
-3. The first player across kills the Gatekeeper with the sword, then deposits it at a node on the far side
-4. Repeat — send players across one by one as swords become available, 3 players on each side
-5. Once 3 players are on the far side: far side takes over bridge construction (their plates), home side can retreat to stairs
-6. Get the remaining 3 players across (last two: one with sword, one carrying the Chalice)
-7. All 6 on far side: pass the Chalice to get players Enlightened, then 5 Gatekeepers spawn simultaneously — pick up stored swords and kill them all
-8. Preserve the Chalice at the node to complete the encounter
+3. First player across kills the Gatekeeper with the sword, then deposits it at a node on the far side
+4. Send players across one by one as swords become available — 3 players on each side
+5. Once 3 are on the far side, far side takes over bridge construction; home side retreats to stairs
+6. Get the remaining 3 across (last two: one with sword, one carrying the Chalice)
+7. All 6 on far side: cycle Chalice to Enlighten players → 5 Gatekeepers spawn — pick up stored swords and kill them all
+8. Deposit the Chalice at the node to complete the encounter
 
-> ⚠️ Only the side actively building the bridge needs players under its Annihilator Totems. The other side is free to retreat.
+### Player Roles
+
+| Player | Role | Description |
+|--------|------|-------------|
+| Waley | Lead — Home side coordinator | Calls crossing order; calls Swordbearer spawns; manages home-side Annihilator Totem coverage; last to cross |
+| Jade | Home Annihilator Totem | Stands under left totem on home side; swaps to covering right if needed |
+| Jordan | Bridge builder / Sword carrier 1 | Stands on center plate initially; first to cross with a sword when Enlightened |
+| Andre | Home Annihilator Totem | Stands under right totem on home side; crosses 3rd or 4th |
+| Jebb | Far side Annihilator Totem | Crosses 2nd; covers far-side totem; calls Gatekeeper positions to Waley |
+| Daniel | Far side coordinator | Crosses 3rd; takes over far-side bridge plate; manages far-side totem coverage |
 
 ### Tips
-- Pre-getting all players Enlightened before anyone crosses is the cleanest strategy — less Chalice juggling mid-encounter
-- If someone dies while Enlightened, a far-side player must run the Chalice back across to restart the chain
-- Sniper Rifles and Scout Rifles let both sides help each other across the gap
-- Don't stand on the center plate in the second phase (killing the 5 Gatekeepers) — it activates the totems unnecessarily
-
-**Challenge — Precarious Balance:** Players must cross the bridge while it is actively deforming (no one on the center plate). The crossing player must jump the gap as the bridge breaks apart.
+- Pre-getting all players Enlightened before anyone crosses is the cleanest strategy
+- Sniper rifles let both sides help with enemy clear across the gap
+- Don't stand on the center plate in the second phase (5 Gatekeeper kills) — activates totems unnecessarily
 
 ---
 
-## Shrieker Sprint (Between Bridge and Ir Yut)
+## Shrieker Sprint
 
-Not an encounter, but a short hallway section. Green barriers block the path — an Enlightened player walks through to destroy the Shrieker behind it, dropping the barrier. Repeat twice. Deposit the Chalice at the node at the end to unlock the drop into the Ir Yut arena.
+Not an encounter. A short hallway with green barriers — an Enlightened player walks through to destroy the Shrieker behind it, dropping the barrier. Repeat twice. Deposit the Chalice at the node at the end to unlock the drop into the Ir Yut arena.
 
-> **Secret chest:** After the second barrier drops, sprint forward and deposit the Chalice into the node before the door closes. The door will mostly shut but a chest spawns and the door reopens.
+> **Secret chest:** After the second barrier drops, sprint forward and deposit the Chalice into the node before the door closes. The door will mostly shut but a chest spawns and reopens.
 
 ---
 
 ## 3. Ir Yut, the Deathsinger
 
-**Goal:** Kill hidden Wizards to drop Ir Yut's shield, then DPS her before her Dark Liturgy song wipes the team.
+![Ir Yut](ir-yut.png)
+
+**Goal:** Kill hidden Wizards to drop Ir Yut's shield, then DPS her before Dark Liturgy wipes the team.
+
+### Recommended Loadout
+
+| Slot | Recommendation | Notes |
+|------|---------------|-------|
+| **Primary** | Any ad clear primary | Clear Knights on both sides before Wizard phase begins |
+| **Special** | Shotgun | Burst the yellow-bar Knights fast; their deaths open the Shrieker barriers |
+| **Heavy** | Rocket Launcher or Linear Fusion Rifle | Primary DPS tool on Ir Yut during the damage window |
+| **Exotic support** | Divinity (Jordan) | Ir Yut has a small hitbox — Jordan's crit bubble makes the whole team's damage far more consistent |
 
 ### How it Works
-Ir Yut's shield is held up by Wizards hiding behind green barriers around the arena. You need Enlightened players to walk through those barriers and kill the Wizards. Once any Wizard dies (or after 3 minutes), **Dark Liturgy** begins — a countdown timer. If it hits zero before you deal enough damage to reach the health notch on her bar, the team wipes. The number of Wizards increases each phase: 3 → 4 → 5.
+Ir Yut's shield is held by Wizards hiding behind green barriers. Enlightened players walk through those barriers to kill the Wizards. Once any Wizard dies (or after 3 minutes), **Dark Liturgy** begins — a countdown timer. If it hits zero before enough damage is dealt, team wipes. Wizard count increases each phase: 3 → 4 → 5.
 
 ### Wizard Spawn Locations (7 possible)
 - Top and bottom floors of the two corner towers (left and right)
 - Three rooms above the center crystal room
 
 ### Steps
-1. Split into two groups of 3 — one left, one right. Kill the 6 yellow-bar Knights on each side
-2. Defeating the Knights opens the Shriekers on each side. Kill both Shriekers to drop the barrier to the center crystal room
-3. Pick up the Chalice from the node in front of the crystal — get the right number of players Enlightened (3 first phase, 4 second, 5 third)
-4. Scout calls out all Wizard locations while the Chalice is being passed
-5. Enlightened players go to their assigned Wizard locations — walk through the barrier (loses Enlightened) and get the Wizard to a finishable state
-6. All Wizard players count down and kill their Wizards **simultaneously**
-7. Team groups up outside the crystal room for DPS — drop Well of Radiance and burn her down
-8. If you have extra Enlightened buffs, **Expunge** Ir Yut for a burst of bonus damage at the start of each phase
+1. Left team (Waley/Jade/Jordan) clears Knights on the left side; right team (Andre/Jebb/Daniel) clears Knights on the right side
+2. Defeating the Knights opens Shriekers on each side — kill both Shriekers to drop the barrier to the center crystal room
+3. Pick up the Chalice from the node in front of the crystal — Waley calls the right number of players Enlightened (3 first phase, 4 second, 5 third)
+4. Waley calls all Wizard locations as they're spotted
+5. Enlightened players go to assigned Wizard locations — walk through the barrier (loses Enlightened) and damage the Wizard
+6. Waley counts down and calls the simultaneous kill — all Wizards die at the same time
+7. Team groups outside the crystal room — drop Well of Radiance and burn Ir Yut down
+8. Extra Enlightened players Expunge Ir Yut at the start of each phase for a burst of bonus damage
 
-> ⚠️ Walking through a barrier removes your Enlightened buff and you cannot cross back out until the Wizard dies. Don't go in early.
+### Player Roles
+
+| Player | Role | Description |
+|--------|------|-------------|
+| Waley | Lead — Scout + caller | Runs the arena with a Truesight weapon (Wish-Ender) to find all Wizards; calls locations and the simultaneous kill countdown |
+| Jade | Left side — Wizard hunter | Clears left Knights; assigned to left tower Wizard locations |
+| Jordan | Left side — Divinity support | Clears left Knights; holds Divinity on Ir Yut during DPS phase for the whole team |
+| Andre | Right side — Wizard hunter | Clears right Knights; assigned to right tower Wizard locations |
+| Jebb | Right side — Wizard hunter | Clears right Knights; assigned to center room Wizard locations |
+| Daniel | Chalice manager + DPS | Cycles the Chalice to ensure all Wizard hunters are Enlightened before Waley calls the go; full DPS on Ir Yut |
 
 ### Tips
-- Assign Enlightened 6 as the scout — while others pass the Chalice, they run the arena with Wish-Ender or another Truesight weapon to find hidden Wizards
-- Divinity is very strong here — Ir Yut has a small hitbox and the crit bubble makes hitting her much easier
-- Try to kill all Wizards at the same time — killing even one early starts the Dark Liturgy countdown
-- Rocket launchers, linear fusion rifles, and Leviathan's Breath all deal great damage on her
-
-**Challenge — Equal Vessels:** The Chalice must be cycled through all players in the same set order throughout the encounter, including during the DPS phase.
+- Try to kill all Wizards at exactly the same time — killing even one early starts the Dark Liturgy countdown
+- Walking through a barrier removes Enlightened and you can't cross back out until the Wizard dies — don't go in early
+- Rockets, linear fusion rifles, and Leviathan's Breath all deal great damage on Ir Yut
 
 ---
 
 ## 4. Crota, Son of Oryx
 
-**Goal:** Collect swords by killing Swordbearers, use them to break Crota's shield, then DPS him down while managing the Oversoul.
+![Crota](crota.png)
+
+**Goal:** Collect swords by killing Swordbearers, break Crota's shield, and DPS him down while managing the Oversoul.
+
+### Recommended Loadout
+
+| Slot | Recommendation | Notes |
+|------|---------------|-------|
+| **Primary** | Any ad clear primary | Clear Thrall and Knights between sword cycles |
+| **Special** | Shotgun | Fast Knight kills; Aeon gauntlets on the Swordbearer killer generates Heavy ammo on their death |
+| **Heavy** | The Lament (Exotic Sword) | Best DPS on Crota by a large margin; heals while attacking; swap back to rocket after the sword phase if needed |
+| **Exotic support** | Tractor Cannon (Jordan) | Fires at Crota right before swords land — debuff massively increases sword damage for the whole team |
 
 ### How it Works
-Crota is immune until his shield is broken with a Hive sword. You get swords by killing **Swordbearers** — but only an **Enlightened player** can pick one up. The encounter runs in repeating cycles to collect 3 swords before a DPS phase.
+Crota is immune until his shield is broken with a Hive sword. Only an **Enlightened player** can pick up a sword. The encounter runs in repeating cycles to collect 3 swords before a DPS phase.
 
-**Presence of Crota** debuff is active the entire fight — you can only swap the Chalice inside a **beam of light** that spawns at one of 5 fixed locations around the arena. Coordinate swaps accordingly.
+**Presence of Crota** is active the entire fight — you can only swap the Chalice inside a **beam of light** at one of 5 fixed locations around the arena.
 
-During every DPS phase, an **Oversoul** appears with a countdown timer. Only an Enlightened player can destroy it. Destroying the Oversoul ends the DPS phase, so hold off as long as possible before shooting it.
+During every DPS phase, an **Oversoul** appears with a countdown timer. Only an Enlightened player can destroy it — hold off as long as possible before shooting it to maximize DPS time.
 
 ### Cycle to Get 3 Swords
-1. Two players (one per tower) kill the 2 Boomer Knights in the left and right towers
-2. Two Ogres and a Swordbearer spawn in the middle — kill the Ogres, then kill the Swordbearer when the next Enlightened player is ready to pick up the sword
+
+1. Waley/Jade kill the 2 Boomer Knights in the left tower; Jebb/Daniel kill the 2 in the right tower
+2. Two Ogres and a Swordbearer spawn in the middle — kill Ogres first, then kill the Swordbearer when the next Enlightened player is ready
 3. Enlightened player picks up the sword immediately — it disappears fast
-4. Repeat the cycle 2 more times until 3 players have swords
+4. Repeat 2 more times until 3 players have swords
 
 > ⚠️ Only swap the Chalice inside a beam of light. After Enlightened 6 gets their buff, deposit the Chalice at the preservation node in the pit below the crystal room.
 
 ### DPS Phase
-1. All 3 sword players attack Crota simultaneously to break his shield
-2. One player fires **Tractor Cannon** at Crota right before the swords land — debuff massively increases sword damage
-3. When the shield breaks, drop **Well of Radiance** and the whole team DPS
-4. Any extra Enlightened players can **Expunge** Crota for bonus damage
-5. Watch the Oversoul timer — destroy it with 3–4 seconds left to maximize DPS time
-6. Repeat the full cycle
+
+| Step | Action |
+|------|--------|
+| 1 | All 3 sword players attack Crota simultaneously to break his shield |
+| 2 | Jordan fires **Tractor Cannon** at Crota right before swords land — debuff maximizes sword damage |
+| 3 | Shield breaks → drop **Well of Radiance** → whole team DPS with The Lament / rockets |
+| 4 | Extra Enlightened players Expunge Crota for bonus damage at the start of the phase |
+| 5 | Watch Oversoul timer — destroy it with 3–4 seconds left to maximize DPS time |
+| 6 | Repeat the full cycle |
 
 ### Player Roles
 
-| Role | Job |
-|------|-----|
-| Tower killers (x2) | One player per tower, kill the 2 Boomer Knights each cycle to spawn the Swordbearer |
-| Swordbearer killer | Dedicated player who finishes the Swordbearer; consider using Aeon gauntlets for Heavy ammo on kill |
-| Chalice rotation | Everyone else cycling the Chalice to get players Enlightened |
-| Tractor Cannon | Fires at Crota right before swords swing — use every DPS phase |
-| Oversoul handler | One Enlightened player dedicated to destroying the Oversoul as late as possible |
-| Well of Radiance (Warlock) | Drop at the start of every DPS phase; multiple Warlocks strongly recommended |
-
-### DPS Strategies
-
-**Close range (recommended):** All 3 sword users break the shield simultaneously, then collapse with **The Lament**. Drop Well of Radiance as the shield breaks. Cenotaph Mask Warlock marks the Swordbearer to generate Heavy ammo for the team.
-
-**Long range:** Position the team on top of the crystal room. Once the shield breaks, sword player rejoins and the team uses rocket launchers (Gjallarhorn, Explosive Light rockets). Safer from Crota's attacks but slightly lower damage potential.
+| Player | Role | Description |
+|--------|------|-------------|
+| Waley | Lead — Left tower + coordinator | Kills left tower Boomer Knights with Jade; calls all sword cycle timing; calls Swordbearer spawns; calls Oversoul timing |
+| Jade | Left tower | Kills left tower Boomer Knights with Waley; Sword carrier when Enlightened |
+| Jordan | Tractor Cannon + DPS | Fires Tractor Cannon at Crota right before swords land every DPS phase; Sword carrier when Enlightened |
+| Andre | Chalice manager + DPS | Cycles Chalice to Enlighten sword carriers; full DPS during damage phase; Oversoul handler |
+| Jebb | Right tower | Kills right tower Boomer Knights with Daniel; Sword carrier when Enlightened |
+| Daniel | Right tower + Swordbearer finisher | Kills right tower Boomer Knights with Jebb; dedicated Swordbearer killer (use Aeon gauntlets for Heavy ammo on kill) |
 
 ### Final Stand
-Once Crota's health bar hits the final section, he goes immune briefly — run away to avoid his slam and use the time to collect Heavy ammo. His shield will drop again and the Oversoul reappears with a 20-second timer. Destroy the Oversoul to get a 10-second extension. Even if the timer hits zero and the team wipes, if Crota dies in those last few seconds you'll still get your loot.
+Once Crota's health hits the final section, he goes immune briefly — run away to avoid his slam and collect Heavy ammo. His shield drops again and the Oversoul reappears with a 20-second timer. Destroy the Oversoul to get a 10-second extension. Even if the timer hits zero and the team wipes, if Crota dies in those last few seconds you still get your loot.
 
-> ⚠️ The Oversoul has very little health — fusion rifles can one-shot it accidentally. Whoever is on Oversoul duty should angle their shots away from it during DPS.
-
-**Challenge — All For One:** All 3 swords must hit Crota at the same time to break his shield. No individual sword attacks — collect all 3 then swing together.
+> ⚠️ The Oversoul has very little health — fusion rifles can one-shot it accidentally. Andre on Oversoul duty should angle shots away from it during DPS.
 
 ---
 
-## Loot Table
+## Guaranteed Deepsight Chest (Necrocasm Exotic)
 
-| Encounter | Weapons | Armor |
-|-----------|---------|-------|
-| The Abyss | Swordfang, Premonition, Ether Doctor, Fang of Ir Yut | Legs, Class Item |
-| Bridge | Swordfang, Word of Crota, Premonition | Arms, Chest |
-| Ir Yut | Swordfang, Fang of Ir Yut, Word of Crota, Abyss Defiant | Head, Arms |
-| Crota | Abyss Defiant, Word of Crota, Fang of Ir Yut, **Necrocasm (Exotic)** | Head, Legs |
-
-> ⭐ **Necrocasm** is the raid Exotic — it does not drop from secret chests. The Deepsight (red border) version requires activating the three correct statues before the run begins (see Guaranteed Deepsight section below).
-
----
-
-## Guaranteed Deepsight Chest
-
-At the very start of the raid, before doing anything, look across the Hellmouth to find 3 sets of Hive statues. Each set has a left and right statue — one is lit up. Read them left to right and note left or right for each (e.g. right / left / left).
+At the very start of the raid, before doing anything, look across the Hellmouth to find 3 sets of Hive statues. Each set has a left and right statue — one is lit. Read them left to right and note left or right for each (e.g. right / left / left).
 
 At each of the three points below, interact with the statue matching your noted side:
 
@@ -239,7 +273,7 @@ At each of the three points below, interact with the statue matching your noted 
 | After the Bridge encounter | Check the area on each side of the far bridge plate stairs; interact with the statue matching statue 2 |
 | After the Ir Yut encounter | Jump up to the area above the Crota rally flag; interact with the statue matching statue 3 |
 
-When all three are correct, the message "A balance is reached. To the victor go the final spoils." appears. A Deepsight chest will spawn after Crota dies.
+When all three are correct, the message *"A balance is reached. To the victor go the final spoils."* appears. A Deepsight Necrocasm chest spawns after Crota dies.
 
 ---
 
